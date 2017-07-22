@@ -16,7 +16,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>HelloWorld</mainClass>
+                            <mainClass>LongestCommonSubstring</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -33,7 +33,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>HelloWorld</mainClass>
+                    <mainClass>LongestCommonSubstring</mainClass>
                 </configuration>
             </plugin>
         </plugins>
