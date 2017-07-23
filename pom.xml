@@ -16,7 +16,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>LongestCommonSubstring</mainClass>
+                            <mainClass>SumQuery2D</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -33,7 +33,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>LongestCommonSubstring</mainClass>
+                    <mainClass>SumQuery2D</mainClass>
                 </configuration>
             </plugin>
         </plugins>

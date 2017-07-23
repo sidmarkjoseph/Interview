@@ -50,7 +50,7 @@ public class LongestCommonSubstring {
 
     public static void main(String[] args) {
         System.out.println("----------------------------------------------------------");
-        System.out.println("Longest Substring is of length " + findLongestSubsrting(args[0], args[1]) + " String is " + returnString(args[0]));
+        System.out.println("Longest Common Substring is of length " + findLongestSubsrting(args[0], args[1]) + " String is " + returnString(args[0]));
         System.out.println("------------------------------------------------------------");
 
     }
